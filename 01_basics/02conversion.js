@@ -28,3 +28,6 @@ console.log(boolc)
 // when bool = 0 =false
 // when bool = "" =false
 // when bool = "Arshad" =true
+
+//to check a type any data type 
+// use typeof()
